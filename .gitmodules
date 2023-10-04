@@ -1,0 +1,9 @@
+[submodule "CT239_Admin"]
+	path = CT239_Admin
+	url = https://github.com/Hong-Yen/CT239_Admin.git
+[submodule "CT239_Client"]
+	path = CT239_Client
+	url = https://github.com/Hong-Yen/CT239_Client.git
+[submodule "CT239_Backend"]
+	path = CT239_Backend
+	url = https://github.com/Hong-Yen/CT239_Backend.git
