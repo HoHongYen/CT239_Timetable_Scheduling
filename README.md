@@ -1,4 +1,4 @@
-![Screenshot (66) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/c1811f69-236b-44af-b8e9-6ff10c5ca1a8)# TRANG WEB HỖ TRỢ TẠO THỜI KHÓA BIỂU (CTU) 🌸
+# TRANG WEB HỖ TRỢ TẠO THỜI KHÓA BIỂU (CTU) 🌸
 
 Tên website: CAMELLIA TIMETABLE
 
