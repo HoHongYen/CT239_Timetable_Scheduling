@@ -1,4 +1,4 @@
-# TRANG WEB HỖ TRỢ TẠO THỜI KHÓA BIỂU (CTU) 🌸
+![Screenshot (66) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/c1811f69-236b-44af-b8e9-6ff10c5ca1a8)# TRANG WEB HỖ TRỢ TẠO THỜI KHÓA BIỂU (CTU) 🌸
 
 Tên website: CAMELLIA TIMETABLE
 
@@ -33,7 +33,8 @@ npm run dev
 -	Xem thời khóa biểu.
 -	Chọn thời khóa biểu yêu thích.
 -	Tải ảnh thời khóa biểu đã chọn.
-![client_chuc_nang](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/ed8cad3c-5d8c-48e8-a320-02d70f538047)
+![client_chuc_nang](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/c91df2c5-2ffe-4187-8d90-cd2c26186961)
+
 
 ### :cherries: Trang quản trị cho admin
 -	Đăng nhập.
@@ -41,216 +42,215 @@ npm run dev
 -	Quản lý môn học (thêm, cập nhật, xóa).
 -	Xử lý yêu cầu thêm môn học của người dùng.
 -	Quản lý người dùng (xem thông tin người dùng, xóa người dùng)
-  
-![admin_chuc_nang](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/577cab97-115e-4567-8208-0ca4c53146d5)
+![admin_chuc_nang](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/6466b2ff-04c3-434e-823d-1bd6fdaf6bf3)
+
 
 ## :sunflower: Hướng dẫn sử dụng chi tiết
 ### :cherries: Trang web cho client
 #### 🍎 Trang đăng nhập, đăng kí:
 - Giao diện trang chủ khi chưa đăng nhập, bấm chọn vào biểu tượng đăng nhập.
-![1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/55b5f7bf-5ee2-4ce0-b6cd-0cccb52a20f0)
+![1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/e8acd9bb-fc4a-4241-b498-914b1251ac3b)
 
 - Có thể đăng nhập bằng Google bằng cách chọn nút đăng nhập bằng Google:
-![2](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/15a64626-84df-4a93-9f19-67683023f0c7)
+![2](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8245e24c-0c74-41cb-9e23-9ea8e2f6622f)
 
 -	Sau đó chọn tài khoản đăng nhập:
-![3](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/c0cfc10e-3a42-45c9-829d-0f7f564e6bd0)
+![3](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/4a6fc700-2f02-4b49-a1df-c49e38a9de4a)
 
 -	Hoặc có thể đăng kí tài khoản mới:
-![Screenshot (59)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/a4d21144-6558-4857-bc7d-f2694c857dab)
+![Screenshot (59)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/63b5bd8a-e646-4ba3-bd31-7f47066b3f96)
 
 -	Sau đó đăng nhập vào bằng tài khoản vừa đăng kí:
-![Screenshot (60) - 0](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/0d9dacf6-c0a2-4650-8ce2-94d043ce9d83)
+![Screenshot (60) - 0](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/1e450ae7-1045-4e7a-bc4b-7b972f45adf1)
 
 -	Thông báo đăng nhập thành công:
-![Screenshot (60) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/cd65d4ee-b352-4103-b4aa-f124ef643650)
+![Screenshot (60) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/844dc888-b08d-4ba5-9f9c-887c235586d1)
 
 #### 🍎 Trang chủ:
 -	Giao diện trang chủ: hiển thị danh sách tất cả môn học đã có trong cơ sở dữ liệu để người dùng có thể thêm vào danh sách môn cần học. Nhóm nào có sỉ số còn lại lớn hơn 0 sẽ được tô màu xanh lá để người dùng có thể dễ dàng theo dõi. Người dùng có thể ẩn bớt danh sách nhóm của tất cả các môn, chỉ hiển thị mã môn và tên môn bằng cách nhấn vào nút biểu tượng mũi tên hướng lên:
-![Screenshot (61) - 0](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/06031609-5d69-4747-aa9c-acc1da0d3fd3)
+![Screenshot (61) - 0](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/2d6329c9-d39e-4b45-8b29-9da20cacaf4b)
 
 -	Kết quả hiển thị như sau, người dùng cũng có thể hiển thị lại các nhóm như ban đầu bằng cách nhấn vào nút biểu tượng mũi tên hướng xuống:
-![Screenshot (61) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/178b4103-cc18-42ad-a7bf-1102793d4211)
+![Screenshot (61) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/bbec02bb-5f99-4743-a62e-fb3e64ba3e8f)
 
 -	Kết quả như sau, hoặc có thể thu gọn hoặc mở rộng một môn tùy ý bằng cách nhấn chọn biểu tượng tương ứng ở cột tùy chọn của môn đó:
-![Screenshot (61) - 2](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/bfec1ec7-9e66-4952-8436-1bcc47f9211e)
-![Screenshot (62)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/fa7cf1f7-36ce-4c83-aa76-ab5070de6d88)
+![Screenshot (61) - 2](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8c683334-261a-4b64-bea8-4f61a5334913)
+![Screenshot (62)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/e5d101f2-ca0d-4f5f-91b9-a5f75fba9607)
 
 -	Người dùng có thể thêm một môn học vào danh sách môn cần học bằng cách tích chọn vào ô thêm môn ở cột tùy chọn:
-![Screenshot (63) - 0](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/afefc45b-195a-4577-be5b-2ef0e09682f6)
+![Screenshot (63) - 0](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/1ab14f83-3488-4e47-af89-29cf4c36f095)
 
 -	Thông báo thêm môn thành công:
-![Screenshot (63) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/af5aed54-a944-4c02-812d-1c5d087b2b64)
+![Screenshot (63) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/723a6b67-2d0b-44d3-b1d6-5e55c6aac19e)
 
 #### 🍎 Trang các môn cần học:
 -	Người dùng cũng có thể thêm môn ở trang môn đã chọn bằng cách nhập mã môn vào ô tìm kiếm, nếu môn đó đã có sẵn trong cơ sở dữ liệu thì kết quả tìm kiếm sẽ hiện ra lập tức.
-![Screenshot (64)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/edbcc1c3-74f5-473c-a8ad-055d409b094b)
+![Screenshot (64)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/2c239968-3246-4df4-af72-7a15a5465e38)
 
 -	Nhấn vào nút thêm môn để xác nhận thêm môn.
-![Screenshot (65)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/037b1c28-02b4-4f97-ac04-30e427d1d386)
+![Screenshot (65)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8f5c5f6e-6940-4805-a3a3-458f66365fdc)
 
 -	Thông báo thêm môn thành công:
-![Screenshot (66) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/aa098d44-dbe3-4180-9a90-a246a2313f2a)
+![Screenshot (66) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/90e5de76-4bbb-4a90-aa67-02e56e26ca8b)
 
 -	Nếu môn học cần tìm chưa có trong cơ sở dữ liệu, một thông báo môn học chưa có sẽ hiển thị và gợi ý người dùng gửi yêu cầu thêm môn cho admin. Người dùng cần bấm chọn nút “Gửi yêu cầu”.
-![Screenshot (66) - 3](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/5d866a4a-592c-430f-911f-58e36e5bd3cc)
+![Screenshot (66) - 3](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8663b497-9121-4ec0-a34b-8b66a2d5c443)
 
 -	Thông báo đã gửi yêu cầu. Người dùng có thể xem danh sách các môn mình đã yêu cầu bằng cách bấm chọn biểu tượng hình cái chuông ở trên thanh điều hướng. Mặc định, chuông này sẽ đứng yên, nhưng khi có yêu cầu thêm môn nào đó của người dùng đã được duyệt, chuông sẽ rung để thông báo cho người dùng biết.
-![Screenshot (66) - 4](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/f2ae24aa-ad8f-415c-bf6c-88bb987d06bd)
+![Screenshot (66) - 4](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/999bb1b2-03f4-4c55-8ed8-7d34d482e81b)
 
 -	Danh sách yêu cầu người dùng đã gửi:
-![Screenshot (66) - 5](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/94968dec-32af-4dd1-9310-84c41e9928c2)
+![Screenshot (66) - 5](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/e7cb8734-00a1-458e-a7fc-ee60911bbd3a)
 
 -	Sau khi đã thêm các môn học, người dùng có thể thêm điều kiện lọc nhóm cho các môn, nhằm lọc ra các nhóm sao cho phù hợp với nhu cầu và sở thích của người dùng. Hình dưới là kết quả lọc theo buổi:
-![Screenshot (68)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/715bd285-6186-4ad5-890c-974a399c5c66)
+![Screenshot (68)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/f2cbf871-af5f-4837-b983-e38220246d59)
 
 -	Hoặc lọc theo nhóm:
-![Screenshot (69)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/d9665fb0-002e-4e9d-bec8-e55ab2a0d4f6)
-![Screenshot (70)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/2b6cda4a-fe3f-4c50-957f-9679c0518974)
+![Screenshot (69)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/f4c9ce47-e255-4ba1-b1de-bdcca451fb36)
+![Screenshot (70)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/2659a1e4-66ad-40e6-9202-deb16edc7671)
 
 -	Người dùng có thể xóa môn học, nếu thấy không muốn học môn đó nữa:
-![Screenshot (71)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/4beff4be-7a37-48fa-8158-16cd10825ae4)
-![Screenshot (72)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/22416666-36cb-4d49-9c7d-786d55da289e)
+![Screenshot (71)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/43a97315-4d6b-4061-940c-dae533904661)
+![Screenshot (72)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/d93d56d2-cb48-4be3-a71c-6ef8cddb1b7d)
 
 -	Thông báo xóa môn thành công:
-![Screenshot (73)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/63c4eeff-f8c3-4a67-a5ae-a769b353b657)
+![Screenshot (73)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/0725c670-481c-458d-8bc3-86b024f6bb76)
 
 -	Sau khi đã chọn môn và lọc nhóm, chuyển đến trang thời khóa biểu:
-![Screenshot (74)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/50445889-a719-474f-bcb7-f8f1631012e6)
+![Screenshot (74)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/b0b4ca5e-cc22-459d-9c89-56805fffac15)
 
 #### 🍎 Trang thời khóa biểu:
 -	Với các môn đã chọn và điều kiện lọc nhóm đặt ra, hiện tại chỉ có 1 thời khóa biểu thỏa tất cả các điều kiện đã đề ra.
-![Screenshot (75)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/b4b7ba48-c338-47e4-8011-2e7f1ee139b5)
+![Screenshot (75)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/83a3c0b2-7236-4581-abc5-5646c469a59e)
 
 -	Nếu cảm thấy có quá ít lựa chọn, người dùng có thể quay trở lại trang “Môn đã chọn” và bỏ bớt một số điều kiện lọc:
-![Screenshot (78)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/72c68e6a-dfda-42ed-ba05-7a255fce47dd)
+![Screenshot (78)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/b18ab6eb-7c39-4a17-9e00-52035693ad56)
 
 -	Quay trở lại trang thời khóa biểu, lúc này đã có 2 thời khóa biểu thỏa điều kiện.
-![Screenshot (79)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/4ac70e9a-a0a4-449a-9102-53c56b6b7d57)
+![Screenshot (79)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/e00f31f8-7918-41d0-8f02-cc88e6e60386)
 
 -	Nếu thấy vừa ý một thời khóa biểu nào đó, người dùng có thể thêm vào yêu thích để cân nhắc sau đó. Có thể chọn yêu thích nhiều thời khóa biểu.
-![Screenshot (80)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/63e77aeb-ad75-4faa-88fa-a83b8120c495)
-![Screenshot (81)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/de2a7f6f-bd34-4888-b79e-34aec0f45bd1)
+![Screenshot (80)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/c7f34581-76b8-40e0-99d2-9acf4ede2aed)
+![Screenshot (81)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/36cc80ce-d69b-4043-81f4-2ee0c237d4ea)
 
 -	Hoặc nếu muốn chọn một thời khóa biểu nào đó làm thời khóa biểu chính thức, người dùng bấm chọn “Chọn làm TKB chính thức”. Lưu ý, chỉ có thể chọn 1 thời khóa biểu làm thời khóa biểu chính thức.
-![Screenshot (82)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/bde88489-64ae-4399-a7af-74bb97c6ef70)
-![Screenshot (83)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/3862e4c7-fe88-47ce-a045-67f528c30053)
+![Screenshot (82)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/11cadd93-74d7-477e-b3ee-522cd99c53d8)
+![Screenshot (83)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/7bc2bd08-2ef5-4d8c-b411-d3aed02bb34f)
 
 #### 🍎 Trang thời khóa biểu chính thức:
 -	Sau khi chọn thời khóa biểu chính thức ở trang “Thời khóa biểu”, thời khóa biểu đó sẽ được hiển thị bên trang “Đã chọn”. Người dùng có thể xem ảnh chụp màn hình trước khi tải xuống:
-![Screenshot (84)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/bc77fa17-af46-4bda-968f-6dfd97cc45d9)
+![Screenshot (84)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/b11346ca-bd88-43a5-9b45-7c970be98ce6)
 
 -	Bấm chọn “Tải hình ảnh” để tải hình ảnh xuống.
-![Screenshot (85)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/de21b3eb-b0ad-44a0-8630-3c08f1000226)
+![Screenshot (85)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8643c0d4-1358-4ddd-a707-8863f6a91831)
 
 -	Hình ảnh đã được tải thành công.
-![Screenshot (86)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/4699e04f-36c8-49e0-bd1a-98a10bf8923a)
+![Screenshot (86)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/28e9687c-8bde-4d68-b1b7-40db2ec932e4)
 
 #### 🍎 Chức năng hiển thị thông tin và thay đổi mật khẩu:
 -	Sau khi đăng nhập, người dùng có thể xem thông tin cá nhân của mình:
-![Screenshot (92)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/93af02d8-4ea1-4122-9fe6-cb5ece2073d0)
+![Screenshot (92)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8f27ca52-6d45-4a67-bf46-4997ca191f5f)
 
 -	Kết quả hiển thị như sau, sau đó người dùng cũng có thể chọn chức năng thay đổi mật khẩu:
-![Screenshot (94)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/d8d5767a-e4c2-446e-9e4c-fd39d848d497)
+![Screenshot (94)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/92e799cf-708c-4b1a-a46d-67dca0bb036c)
 
 -	Nhập vào địa chỉ email để nhận link đổi mật khẩu:
-![Screenshot (95)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/c574ff24-e1f6-4957-973c-3255c64a5737)
+![Screenshot (95)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/51e6b789-2215-4cd2-9d2e-350459fb4940)
 
 -	Thông báo link đổi mật khẩu đã được gửi vào địa chỉ vừa nhập.
-![Screenshot (96)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/749cbcd1-c8d1-4871-90e5-7018453600df)
+![Screenshot (96)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/075d942e-fd7b-4e27-b1fc-b814fee758a7)
 
 -	Vào hộp thư kiểm tra, đi tới đường dẫn được gửi tới.
-![Screenshot (97)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/9a64787d-ff01-4122-9321-88a930661341)
+![Screenshot (97)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/d7c8ffa9-082f-4aad-adcf-64779b1e384b)
 
 -	Nhập vào mật khẩu mới, sau đó bấm chọn “Save”.
-![Screenshot (98)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/5c669210-ea77-467d-8d8c-6f1120bb767a)
+![Screenshot (98)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/0d73913f-b2a6-4b4c-9f71-147945c641dd)
 
 -	Thông báo thay đổi mật khẩu thành công.
-![Screenshot (99)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/e0845ae6-d3ff-4fda-92e5-00da8d2b21b1)
+![Screenshot (99)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/33d14b19-43b8-47d0-9e62-b6c9d77ce6b6)
 
 ### :cherries: Trang quản trị cho admin
 #### 🍎 Trang đăng nhập:
 -	Giao diện trang đăng nhập: admin có thể đăng nhập vào bằng tài khoản google (đã được cấp quyền) hoặc đăng nhập bằng email và mật khẩu.
-![Screenshot (108)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/d1e33b18-db20-4e62-aff9-0a4844c6de54)
+![Screenshot (108)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/7116aaab-745a-4136-82bc-70f364cb0a3b)
 
 -	Đăng nhập vào bằng tài khoản người dùng thường sẽ có thông báo không có đủ quyền truy cập:
-![Screenshot (109) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/fa431302-9800-4556-836f-b172ccfa5a5b)
+![Screenshot (109) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/94a1f43f-4cb4-4da4-8a0d-b51500ab7e52)
 
 -	Hoặc khi đăng nhập bằng tài khoản admin nhưng sai mật khẩu:
-  ![Screenshot (109) - 2](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/1b2e226e-d19d-4912-8639-ab8faefa8df6)
+![Screenshot (109) - 2](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/0cd7ff65-db32-421c-a339-98892097e04b)
 
 -	Khi nhập đúng email và mật khẩu, trang web sẽ hiện thông báo đăng nhập thành công:
-![Screenshot (110)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/c7e9d441-63ea-4ef1-bafb-5bd528276d0a)
-
+![Screenshot (110)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/e913966e-96d7-464e-888b-9c4757ed5ebb)
 
 #### 🍎 Trang quản lý tất cả môn học:
 -	Trang này hiển thị thông tin tất cả các nhóm của các môn, tương tự như trang người dùng, ta có thể mở rộng và thu gọn các nhóm cho dễ nhìn, nhóm nào có sỉ số lớn hơn 0 cũng được tô màu xanh cho nổi bật. Ngoài ra, trang này còn có cột “Số chọn” nhằm thống kê số người dùng thêm môn học nào đó vào danh sách môn cần học. Admin có thể cập nhật một môn học bằng cách bấm chọn nút “Cập nhật” ở cột tùy chọn tương ứng:
-![Screenshot (112)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/f74bef1a-717c-4ea5-bd62-388ea91db396)
+![Screenshot (112)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/4065c778-91e1-4b97-b95f-d0ad4f0bf3fc)
 
 -	Thông báo cập nhật môn học thành công:
-![Screenshot (113)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/571437e1-f6d8-4405-8d48-292ca73819cb)
+![Screenshot (113)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/59803ee9-4a7e-4f02-9ac2-acbf8934c2bf)
 
 -	Hoặc cũng có thể cập nhật lại tất cả các môn, trang web sẽ cập nhật lần lượt từng môn học và thông báo thành công khi cập nhật xong.
-![Screenshot (114)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/e5538923-0e34-4a2f-ab0f-826b5709e9d1)
-![Screenshot (115)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/7348af5d-71b6-48d6-9595-6759748ec662)
+![Screenshot (114)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/00c5bea2-ae21-4029-9dac-2aa437f45f4f)
+![Screenshot (115)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/58e0a8b0-1dfa-4f85-8d8c-3fa6fedeaa2c)
 
 -	Nếu có môn nào đó không có người dùng nào chọn, admin cũng có thể xóa môn học đó:
-![Screenshot (116)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/e64fbe77-c533-4dd0-aadf-9edc298b250f)
+![Screenshot (116)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/1b4455f1-dca2-45a4-912f-c2b8fbb251a8)
 
 -	Thông báo xóa môn thành công:
-![Screenshot (117)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/29c7b5b0-cd8f-452d-b008-a3a15875d893)
+![Screenshot (117)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/d9475aca-8f2b-458a-aa55-378accea1639)
 
 #### 🍎 Trang thêm môn học:
 -	Giao diện trang thêm môn học:
-![Screenshot (119)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/88434e73-c99f-40e8-9e7b-05c9ed20290f)
+![Screenshot (119)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/2149ab34-2d00-49c4-b0cf-4042d4ed0969)
 
 -	Thêm môn tùy ý bằng cách nhập mã môn, sau đó bấm chọn nút “Tìm”:
-![Screenshot (120)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/1790a6d5-6caf-4d72-9ccd-20da33909e95)
+![Screenshot (120)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/1804e2d1-43c3-4e4c-beaa-13bcacdf6c39)
 
 -	Thông tin môn học cần tìm sẽ hiện ra, sau đó bấm chọn nút “Thêm môn” để xác nhận việc thêm môn:
-![Screenshot (121)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/75642202-0d5f-4d26-8246-df12e31eab40)
+![Screenshot (121)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/cbe0cae8-0e6e-494b-9d05-3db2ef143024)
 
 -	Thông báo thêm môn thành công:
-![Screenshot (122) - 0](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/f2861d13-9a3c-4ede-9d15-e3ac76bf0ced)
+![Screenshot (122) - 0](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/428e4019-84a1-44a5-8542-191a6753e141)
 
 -	Giả sử admin nhập mã môn nào đó không tồn tại:
-![Screenshot (122) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/109914b8-43dc-4e32-a109-830925cca2fb)
+![Screenshot (122) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/fdcc5b25-7139-475a-aa56-7aff470591da)
 
 -	Trang web sẽ thông báo không tìm thấy môn học nào:
-![Screenshot (122) - 2](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/b9716c8f-019a-4e9f-ac0a-0dc6b409c28a)
+![Screenshot (122) - 2](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/9715f54f-f9ac-424b-8b18-f306969a1a27)
 
 -	Hoặc admin cũng có thể thêm môn học dựa vào yêu cầu thêm môn của người dùng: khi có yêu cầu gửi tới, biểu tượng chuông trên thanh điều hướng sẽ rung để thông báo cho admin biết. Admin có thể xử lý yêu cầu thêm môn bằng cách bấm vào biểu tượng tìm kiếm của môn học được yêu cầu:
-![Screenshot (123)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/f2432c98-9cc4-4469-98c1-dd3c19cfe9f3)
+![Screenshot (123)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/a2d38413-705f-42c8-9152-02476e8e4f4b)
 
 -	Trang web sẽ tự động tìm kiếm môn học:
-![Screenshot (124)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/3bfbacd4-694e-4028-af7b-182594a97070)
+![Screenshot (124)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/0926c4b2-e5a7-4ec7-a574-7ef802f7e498)
 
 -	Thông tin môn học cần tìm hiện ra, admin bấm chọn nút “Thêm môn” để xác nhận thêm môn:
-![Screenshot (126)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/fed033c1-1b8d-495a-8b0d-403f4cdca855)
+![Screenshot (126)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/6265e7f9-c6c0-48bd-9034-cf27b3cf1c99)
 
 -	Thông báo thêm môn thành công, yêu cầu thêm môn đó cũng biến mất, đồng thời sẽ gửi thông báo yêu cầu thêm môn đã được duyệt cho người dùng:
-![Screenshot (127)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/92b85379-4f78-4a8c-abfc-f093d8dbf0d0)
+![Screenshot (127)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/957c7746-e547-4402-8246-c6ef532622b8)
 
 #### 🍎 Trang quản lý người dùng
 -	Trang này hiển thị thông tin tài khoản người dùng:
-![Screenshot (128)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/3985213d-e070-4170-ac88-e549331ab5f1)
+![Screenshot (128)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/e04b1e44-bef9-406b-980b-90d0a952ea67)
 
 -	Admin có thể xem thông tin chi tiết người dùng:
-![Screenshot (129)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/35abe01b-e809-4313-a73f-6789405df888)
+![Screenshot (129)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/9b8f641d-bc0b-4130-939c-3385faed3b23)
 
 -	Kết quả hiển thị:
-![Screenshot (130)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/86c7771c-2adb-4eab-b227-5f9435c1bf90)
+![Screenshot (130)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/68755db9-6351-4eb4-a039-b83e8e8092f9)
 
 -	Hoặc có thể xóa tài khoản người dùng:
-![Screenshot (131) - 1](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/2df4e019-5aa9-4296-9897-96a1fa348624)
-![Screenshot (131) - 2](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/8e75c0a3-56ee-40d8-bf38-e5336d9a78eb)
+![Screenshot (131) - 1](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/b5e3e5e3-0c2a-4c3f-a7d4-4f36037d0959)
+![Screenshot (131) - 2](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/0c3cde71-b37c-421c-a256-9884d7381fc7)
 
 -	Thông báo xóa tài khoản thành công:
-![Screenshot (131) - 3](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/83490e8b-213f-4e6a-998d-746c88ec7d1f)
+![Screenshot (131) - 3](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/95bc0524-aaaf-45f6-9ed7-2da6b8865583)
 
 #### 🍎 Chức năng hiển thị thông tin và thay đổi mật khẩu:
 -	Chức năng này tương tự như chức năng của trang người dùng:
-![Screenshot (132)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/d386b544-fbda-468f-9a0e-fca57302fafa)
+![Screenshot (132)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/8acffd93-52b5-4bdc-a116-d5996c64f60c)
 
 -	Cho phép hiển thị thông tin chi tiết của admin hoặc có thể thay đổi mật khẩu nếu muốn:
-![Screenshot (133)](https://github.com/HoHongYen/Timetable_Scheduling/assets/94109674/0aabb892-f84f-4f15-ada5-7b432d90a8cc)
+![Screenshot (133)](https://github.com/HoHongYen/CT239_Timetable_Scheduling/assets/94109674/2819dbef-8cf5-491c-9906-6a0f5bbebb3a)
